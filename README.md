@@ -8,7 +8,7 @@
 
 ## 视频介绍
 
-https://github.com/user-attachments/assets/5dfd4ba8-65c2-4998-aed9-f45f96d997cd
+https://github.com/user-attachments/assets/208b571d-f9c9-4034-8f37-e4683493b730
 
 [下载 HD 原片和字幕](https://github.com/Boulea7/naiwa-pet/releases/tag/promo-v1)
 
