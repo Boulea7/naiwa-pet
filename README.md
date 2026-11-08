@@ -4,7 +4,7 @@
 
 原生 Swift，没有声音，不抢焦点，不花 token。
 
-<p align="center"><img src="docs/demo.webp" width="240" alt="空闲 → 干活 → 等你批准 → 惊鸿一瞥"></p>
+[![奶蛙与 Clawd 的视频预览](docs/assets/promo-preview.webp)](#视频介绍)
 
 ## 所有奶蛙
 
