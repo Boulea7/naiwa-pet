@@ -10,8 +10,6 @@
 
 https://github.com/user-attachments/assets/208b571d-f9c9-4034-8f37-e4683493b730
 
-[下载 HD 原片和字幕](https://github.com/Boulea7/naiwa-pet/releases/tag/promo-v1)
-
 ## 所有奶蛙
 
 每一只都会动。默认安排里用到的：
