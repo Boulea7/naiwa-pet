@@ -6,6 +6,12 @@
 
 [![奶蛙与 Clawd 的视频预览](docs/assets/promo-preview.webp)](#视频介绍)
 
+## 视频介绍
+
+https://github.com/user-attachments/assets/5dfd4ba8-65c2-4998-aed9-f45f96d997cd
+
+[下载 HD 原片和字幕](https://github.com/Boulea7/naiwa-pet/releases/tag/promo-v1)
+
 ## 所有奶蛙
 
 每一只都会动。默认安排里用到的：
@@ -60,12 +66,6 @@
 - **懂 Claude Code**：给每个会话单独记账，只有真干完一个活才有反应，聊两句不打扰；同时开好几个会话，气泡会标出是哪个项目。判断全在本地，不调模型、不花 token，每次钩子约 5 毫秒。
 - **不打扰**：没有声音，没有 Dock 图标，点它不会抢走焦点，透明的地方鼠标直接穿过去，不挡你点后面的窗口。
 - **只动它该动的配置**：接入 Claude Code 时只往 `settings.json` 里插几条，写之前逐字段核对其他内容完全不变，一条命令就能撤掉。
-
-## 视频介绍
-
-https://github.com/user-attachments/assets/5dfd4ba8-65c2-4998-aed9-f45f96d997cd
-
-[下载 HD 原片和字幕](https://github.com/Boulea7/naiwa-pet/releases/tag/promo-v1)
 
 ## 安装
 
