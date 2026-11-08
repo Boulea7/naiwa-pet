@@ -61,6 +61,12 @@
 - **不打扰**：没有声音，没有 Dock 图标，点它不会抢走焦点，透明的地方鼠标直接穿过去，不挡你点后面的窗口。
 - **只动它该动的配置**：接入 Claude Code 时只往 `settings.json` 里插几条，写之前逐字段核对其他内容完全不变，一条命令就能撤掉。
 
+## 视频介绍
+
+https://github.com/user-attachments/assets/5dfd4ba8-65c2-4998-aed9-f45f96d997cd
+
+[下载 HD 原片和字幕](https://github.com/Boulea7/naiwa-pet/releases/tag/promo-v1)
+
 ## 安装
 
 需要 macOS 13 以上，以及 Command Line Tools（没装的话运行 `xcode-select --install`）。不需要 Xcode。
