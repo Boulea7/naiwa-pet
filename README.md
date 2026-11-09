@@ -8,7 +8,7 @@
 
 ## 视频介绍
 
-https://github.com/user-attachments/assets/e1bbd356-307f-4f1f-9fec-15c79d73a17c
+https://github.com/user-attachments/assets/3b57d454-f4c0-4b1f-8327-81961681a8f9
 
 ## 所有奶蛙
 
